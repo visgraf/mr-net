@@ -1,2 +1,2 @@
 # mr-net
-Multi Resolution Neural Network
+Multi Resolution Neural Network Experiments
